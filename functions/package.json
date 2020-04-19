@@ -1,0 +1,22 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "new Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "lucy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auricdhero/lucy.git"
+  },
+  "keywords": [
+    "Lucy"
+  ],
+  "author": "Auricdhero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auricdhero/lucy/issues"
+  },
+  "homepage": "https://github.com/Auricdhero/lucy#readme"
+}
